@@ -1,2 +1,2 @@
-# html-Resume
-The first personal website using html only
+# html-portfolio
+The first website
